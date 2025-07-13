@@ -1,0 +1,136 @@
+[
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/sfSnake/main.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/main.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/main.cpp",
+  "output": "CMakeFiles/main.dir/sfSnake/main.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/sfSnake/Fruit.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/Fruit.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/Fruit.cpp",
+  "output": "CMakeFiles/main.dir/sfSnake/Fruit.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/sfSnake/Game.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/Game.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/Game.cpp",
+  "output": "CMakeFiles/main.dir/sfSnake/Game.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/sfSnake/GameOverScreen.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/GameOverScreen.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/GameOverScreen.cpp",
+  "output": "CMakeFiles/main.dir/sfSnake/GameOverScreen.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/sfSnake/GameScreen.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/GameScreen.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/GameScreen.cpp",
+  "output": "CMakeFiles/main.dir/sfSnake/GameScreen.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/sfSnake/MenuScreen.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/MenuScreen.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/MenuScreen.cpp",
+  "output": "CMakeFiles/main.dir/sfSnake/MenuScreen.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/sfSnake/Screen.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/Screen.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/Screen.cpp",
+  "output": "CMakeFiles/main.dir/sfSnake/Screen.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/sfSnake/Snake.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/Snake.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/Snake.cpp",
+  "output": "CMakeFiles/main.dir/sfSnake/Snake.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/sfSnake/SnakeNode.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/SnakeNode.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/SnakeNode.cpp",
+  "output": "CMakeFiles/main.dir/sfSnake/SnakeNode.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/sfSnake/Button.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/Button.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/Button.cpp",
+  "output": "CMakeFiles/main.dir/sfSnake/Button.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/sfSnake/Grid.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/Grid.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/Grid.cpp",
+  "output": "CMakeFiles/main.dir/sfSnake/Grid.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/sfSnake/HelpScreen.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/HelpScreen.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/HelpScreen.cpp",
+  "output": "CMakeFiles/main.dir/sfSnake/HelpScreen.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/sfSnake/OptionButton.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/OptionButton.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/OptionButton.cpp",
+  "output": "CMakeFiles/main.dir/sfSnake/OptionButton.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/sfSnake/OptionScreen.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/OptionScreen.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/OptionScreen.cpp",
+  "output": "CMakeFiles/main.dir/sfSnake/OptionScreen.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/sfSnake/PauseScreen.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/PauseScreen.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/PauseScreen.cpp",
+  "output": "CMakeFiles/main.dir/sfSnake/PauseScreen.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build",
+  "command": "C:/mingw64/bin/g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles/main.dir/sfSnake/ModeScreen.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/ModeScreen.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/sfSnake/ModeScreen.cpp",
+  "output": "CMakeFiles/main.dir/sfSnake/ModeScreen.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:/mingw64/bin/g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/Clock.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-src/src/SFML/System/Clock.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-src/src/SFML/System/Clock.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:/mingw64/bin/g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/Err.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-src/src/SFML/System/Err.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-src/src/SFML/System/Err.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:/mingw64/bin/g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/Lock.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-src/src/SFML/System/Lock.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-src/src/SFML/System/Lock.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Lock.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:/mingw64/bin/g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/Mutex.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-src/src/SFML/System/Mutex.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-src/src/SFML/System/Mutex.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Mutex.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:/mingw64/bin/g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/Sleep.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-src/src/SFML/System/Sleep.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-src/src/SFML/System/Sleep.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:/mingw64/bin/g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/String.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-src/src/SFML/System/String.cpp",
+  "file": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-src/src/SFML/System/String.cpp",
+  "output": "_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.obj"
+},
+{
+  "directory": "D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-build/src/SFML/System",
+  "command": "C:/mingw64/bin/g++.exe -DSFML_SYSTEM_EXPORTS @CMakeFiles/sfml-system.dir/includes_CXX.rsp -g  -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/Thread.cpp.obj -c D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-s

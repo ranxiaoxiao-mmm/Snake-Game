@@ -1,0 +1,3 @@
+D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir

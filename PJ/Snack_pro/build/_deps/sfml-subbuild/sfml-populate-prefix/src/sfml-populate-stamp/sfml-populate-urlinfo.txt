@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=C:/Program Files/CMake/bin/cmake.exe;-P;D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/verify-sfml-populate.cmake;COMMAND;C:/Program Files/CMake/bin/cmake.exe;-P;D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/extract-sfml-populate.cmake
+source_dir=D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps/sfml-src
+work_dir=D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/build/_deps
+url(s)=D:/Archive/subject/two_two/OOP/lab/PJ/Snack_pro/3rd/SFML-2.6.2.zip
+hash=
+no_extract=
+

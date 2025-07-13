@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/main.dir/sfSnake/Button.cpp.obj"
+  "CMakeFiles/main.dir/sfSnake/Button.cpp.obj.d"
+  "CMakeFiles/main.dir/sfSnake/Fruit.cpp.obj"
+  "CMakeFiles/main.dir/sfSnake/Fruit.cpp.obj.d"
+  "CMakeFiles/main.dir/sfSnake/Game.cpp.obj"
+  "CMakeFiles/main.dir/sfSnake/Game.cpp.obj.d"
+  "CMakeFiles/main.dir/sfSnake/GameOverScreen.cpp.obj"
+  "CMakeFiles/main.dir/sfSnake/GameOverScreen.cpp.obj.d"
+  "CMakeFiles/main.dir/sfSnake/GameScreen.cpp.obj"
+  "CMakeFiles/main.dir/sfSnake/GameScreen.cpp.obj.d"
+  "CMakeFiles/main.dir/sfSnake/Grid.cpp.obj"
+  "CMakeFiles/main.dir/sfSnake/Grid.cpp.obj.d"
+  "CMakeFiles/main.dir/sfSnake/HelpScreen.cpp.obj"
+  "CMakeFiles/main.dir/sfSnake/HelpScreen.cpp.obj.d"
+  "CMakeFiles/main.dir/sfSnake/MenuScreen.cpp.obj"
+  "CMakeFiles/main.dir/sfSnake/MenuScreen.cpp.obj.d"
+  "CMakeFiles/main.dir/sfSnake/OptionButton.cpp.obj"
+  "CMakeFiles/main.dir/sfSnake/OptionButton.cpp.obj.d"
+  "CMakeFiles/main.dir/sfSnake/OptionScreen.cpp.obj"
+  "CMakeFiles/main.dir/sfSnake/OptionScreen.cpp.obj.d"
+  "CMakeFiles/main.dir/sfSnake/PauseScreen.cpp.obj"
+  "CMakeFiles/main.dir/sfSnake/PauseScreen.cpp.obj.d"
+  "CMakeFiles/main.dir/sfSnake/Screen.cpp.obj"
+  "CMakeFiles/main.dir/sfSnake/Screen.cpp.obj.d"
+  "CMakeFiles/main.dir/sfSnake/Snake.cpp.obj"
+  "CMakeFiles/main.dir/sfSnake/Snake.cpp.obj.d"
+  "CMakeFiles/main.dir/sfSnake/SnakeNode.cpp.obj"
+  "CMakeFiles/main.dir/sfSnake/SnakeNode.cpp.obj.d"
+  "CMakeFiles/main.dir/sfSnake/main.cpp.obj"
+  "CMakeFiles/main.dir/sfSnake/main.cpp.obj.d"
+  "D:/Archive/subject/two_two/OOP/lab/PJ/PJ_Snack/bin/main.exe"
+  "D:/Archive/subject/two_two/OOP/lab/PJ/PJ_Snack/bin/main.exe.manifest"
+  "D:/Archive/subject/two_two/OOP/lab/PJ/PJ_Snack/bin/main.pdb"
+  "libmain.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/main.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

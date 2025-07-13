@@ -1,0 +1,36 @@
+_deps/sfml-build/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj: \
+ D:/Archive/subject/two_two/OOP/lab/PJ/PJ_Snack/build/_deps/sfml-src/src/SFML/Window/Context.cpp \
+ D:/Archive/subject/two_two/OOP/lab/PJ/PJ_Snack/build/_deps/sfml-src/include/SFML/Window/Context.hpp \
+ D:/Archive/subject/two_two/OOP/lab/PJ/PJ_Snack/build/_deps/sfml-src/include/SFML/Window/Export.hpp \
+ D:/Archive/subject/two_two/OOP/lab/PJ/PJ_Snack/build/_deps/sfml-src/include/SFML/Config.hpp \
+ D:/Archive/subject/two_two/OOP/lab/PJ/PJ_Snack/build/_deps/sfml-src/include/SFML/Window/GlResource.hpp \
+ D:/Archive/subject/two_two/OOP/lab/PJ/PJ_Snack/build/_deps/sfml-src/include/SFML/System/NonCopyable.hpp \
+ D:/Archive/subject/two_two/OOP/lab/PJ/PJ_Snack/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ D:/Archive/subject/two_two/OOP/lab/PJ/PJ_Snack/build/_deps/sfml-src/include/SFML/Window/ContextSettings.hpp \
+ D:/Archive/subject/two_two/OOP/lab/PJ/PJ_Snack/build/_deps/sfml-src/src/SFML/Window/GlContext.hpp \
+ D:/Archive/subject/two_two/OOP/lab/PJ/PJ_Snack/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.hpp \
+ D:/Archive/subject/two_two/OOP/lab/PJ/PJ_Snack/build/_deps/sfml-src/include/SFML/System/ThreadLocal.hpp \
+ C:/mingw64/include/c++/14.0.1/cstdlib \
+ C:/mingw64/include/c++/14.0.1/x86_64-w64-mingw32/bits/c++config.h \
+ C:/mingw64/include/c++/14.0.1/x86_64-w64-mingw32/bits/os_defines.h \
+ C:/mingw64/include/c++/14.0.1/x86_64-w64-mingw32/bits/cpu_defines.h \
+ C:/mingw64/include/c++/14.0.1/pstl/pstl_config.h \
+ C:/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ C:/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ C:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ C:/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ C:/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.0.1/include/limits.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.0.1/include/syslimits.h \
+ C:/mingw64/x86_64-w64-mingw32/include/limits.h \
+ C:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ C:/mingw64/include/c++/14.0.1/stdlib.h \
+ C:/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.0.1/include/mm_malloc.h \
+ C:/mingw64/x86_64-w64-mingw32/include/errno.h \
+ C:/mingw64/include/c++/14.0.1/bits/std_abs.h \
+ D:/Archive/subject/two_two/OOP/lab/PJ/PJ_Snack/build/_deps/sfml-src/include/SFML/System/ThreadLocalPtr.inl
